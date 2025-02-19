@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "Hello tomTom" << std::endl;
+    std::cout << "Nikolica" << std::endl;
 }
