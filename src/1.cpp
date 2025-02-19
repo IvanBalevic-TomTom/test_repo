@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "Hello GitHub" << std::endl;
+    std::cout << "Hello GitHub Kaca" << std::endl;
 }
